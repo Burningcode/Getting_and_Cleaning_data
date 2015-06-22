@@ -18,9 +18,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 The six labels that will be used on the subject are as follows.
 
-*1. WALKING
-*2. WALKING_UPSTAIRS
-*3. WALKING_DOWNSTAIRS
-*4. SITTING
-*5. STANDING
-*6. LAYING
+-1. WALKING
+-2. WALKING_UPSTAIRS
+-3. WALKING_DOWNSTAIRS
+-4. SITTING
+-5. STANDING
+-6. LAYING
