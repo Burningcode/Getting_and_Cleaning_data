@@ -16,3 +16,11 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 5. Lastly the script creates a 2nd, independent tidy data set with the average of each measuremen for each activity and subject. This set is saved as data_set_with_the_averages.txt. This is a 180 observations of 68 variables. 
 
+The six labels that will be used on the subject are as follows.
+
+*1. WALKING
+*2. WALKING_UPSTAIRS
+*3. WALKING_DOWNSTAIRS
+*4. SITTING
+*5. STANDING
+*6. LAYING
